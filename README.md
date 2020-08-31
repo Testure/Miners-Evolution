@@ -19,7 +19,7 @@ Miner's Evolution is available under the terms of the GNU General Public License
 
 Download [Miners-Evolution.rbxl](Miners-Evolution.rbxl) and open it using [Roblox Studio](https://www.roblox.com/create)
 
-Publish Miner's Evolution.rbxlx to a Roblox place and activate it. The game will not work unless it is published to a place.
+Publish Miner's Evolution.rbxl to a Roblox place and activate it. The game will not work unless it is published to a place.
 
 Source files have been extracted using [rbxlx-to-rojo](https://github.com/rojo-rbx/rbxlx-to-rojo).
 

@@ -1,9 +1,9 @@
 ## About
-Miner's Evolution is a Roblox game based off of Berezaa's Miner's Haven.
+Miner's Evolution is a sandbox tycoon game on Roblox based off of Berezaa's Miner's Haven.
 
 [Play Miner's Evolution on Roblox](https://www.roblox.com/games/3138399874)
 
-After almost 3 years the Miner's Evolution source is being released to allow new developers to learn from it like i learned from Miner's Haven.
+After almost 3 years the Miner's Evolution source is being released to allow new developers to learn from it.
 
 ## License
 

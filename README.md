@@ -13,7 +13,7 @@ After almost 3 years the Miner's Evolution source is being released to allow new
 
 X You are prohibited from using the "Miner's Evolution" name and other property commercially without explicit written permission.
 
-Miner's Evolution is avalible under the terms of the Apache 2 License. see [LICENSE](LICENSE) for details.
+Miner's Evolution is avalible under the terms of the GNU General Public License v3.0. see [LICENSE](LICENSE) for details.
 
 ## Usage
 

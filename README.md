@@ -17,7 +17,7 @@ Miner's Evolution is avalible under the terms of the Apache 2 License. see [LICE
 
 ## Usage
 
-Download [Miner's Evolution.rbxlx] (Miner's Evolution.rbxlx) and open it using [Roblox Studio](https://www.roblox.com/create)
+Download [Miners-Evolution.rbxl](Miners-Evolution.rbxl) and open it using [Roblox Studio](https://www.roblox.com/create)
 
 Publish Miner's Evolution.rbxlx to a Roblox place and activate it. The game will not work unless it is published to a place.
 

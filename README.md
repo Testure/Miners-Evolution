@@ -13,6 +13,14 @@ After almost 3 years the Miner's Evolution source is being released to allow new
 
 X You are prohibited from using the "Miner's Evolution" name and other property commercially without explicit written permission.
 
+X You must provide a link to the Miner's Evolution source code when creating mods of Miner's Evolution.
+
+X You must include the below copyright notice in all complete and large portions of the Miner's Evolution source code.
+
+X Source code that uses the Miner's Evolution source code must have the same license.
+
+X You must state all changes that have been made to the original source code.
+
 Miner's Evolution is available under the terms of the GNU General Public License v3.0. see [LICENSE](LICENSE) for details.
 
 ## Usage

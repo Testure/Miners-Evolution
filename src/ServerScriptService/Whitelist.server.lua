@@ -1,5 +1,5 @@
 local Mode = "Closed"
-local IsTesting = (game.GameId ~= 1132515845)
+local IsTesting = (game.GameId == 4759149031)
 local Whitelist = {"Testure6","Maxis_s"}
 local Blacklist = {}
 
